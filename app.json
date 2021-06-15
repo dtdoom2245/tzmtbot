@@ -1,5 +1,5 @@
 {
-  "name": "TelegramCloneBot Moded by MyatThawMaung",
+  "name": "TelegramCloneBot Moded by ThantZinMyo",
   "description": "Telegram CloneBot Moded",
   "logo": "https://i.imgur.com/Pi7nnl4.jpg",
   "keywords": [
@@ -8,9 +8,9 @@
     "google drive",
     "clone bot"
   ],
-  "repository": "https://github.com/NoobFromMM/telegramclonebot",
-  "website":   "https://github.com/NoobFromMM/telegramclonebot",
-  "success_url": "https://t.me/myatthawmaung",
+  "repository": "https://github.com/thantzinmyothant1/tzmtbot",
+  "website":   "https://github.com/thantzinmyothant1/tzmtbot",
+  "success_url": "https://t.me/DoubleT2245",
   "env": {
     "BOT_TOKEN": {
       "description": "Telegram @BotFather တွင်ရယူပါ",
