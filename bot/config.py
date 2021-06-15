@@ -3,7 +3,7 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "1855179708:AAEzQf3jcDXi7b_5hUD5o26wKPfJN1fWaB4"
+BOT_TOKEN = "1870174420:AAEaTEft2bJhGP10qUr68AFSDINQyRjCh48"
 GDRIVE_FOLDER_ID = "0ABODdwpyOAHgUk9PVA"
 # Default folder id.
 OWNER_ID = 841100316
