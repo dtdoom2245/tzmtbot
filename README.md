@@ -1,4 +1,3 @@
- https://github.com/thantzinmyothant1/tzmtbot
 Credit Moediyu
 
 Moded by thantzinmyo
