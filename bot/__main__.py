@@ -20,7 +20,7 @@ def helpp(update, context):
     
 @run_async
 def dl_sas(update, context):
-    dload.save_unzip("https://fv2-2.failiem.lv/down.php?i=a5zu3jra6&download_checksum=e1f58fad36edc2f5fae9477e0af6d8bb3f7feed5&download_timestamp=1623741015", "./")
+    dload.save_unzip("https://uc31dffabfa2763d27ebf2f6594d.dl.dropboxusercontent.com/cd/0/get/BQcDq2Cks-wiZwVfD-k9O0_9k-R_4LW_cITURWTDYMp2K_FWqoSgGKaxlXulp01Z_4Wp00DWXT-gRL4oj5-DY5d72w7KP0P5e09a8_OzPLpoGRt5C0NhxAEWKm-R8O06jQ66eDi1UKaAGPdaF1Zsoo-G/file", "./")
     sendMessage("စတင်အသုံးပြုနိုင်ပါပြီ သင်၏ shared drive များတွင် tzmtbotclone@googlegroups.comကို Content Manager အဖြစ်ထည့်သွင်းထားပါ",
     context.bot, update, 'Markdown')
 
