@@ -21,7 +21,7 @@ def helpp(update, context):
 @run_async
 def dl_sas(update, context):
     dload.save_unzip("http://dl.tiapp.ga/209661782432039140606914672/accounts.zip", "./")
-    sendMessage("စတင်အသုံးပြုနိုင်ပါပြီ သင်၏ shared drive များတွင် tzmtbotclone@googlegroups.comကို Content Manager အဖြစ်ထည့်သွင်းထားပါ",
+    sendMessage("စတင်အသုံးပြုနိုင်ပါပြီ သင်၏ shared drive များတွင် thantzinmyotelbot@googlegroups.comကို Content Manager အဖြစ်ထည့်သွင်းထားပါ",
     context.bot, update, 'Markdown')
 
 @run_async
