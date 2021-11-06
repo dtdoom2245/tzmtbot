@@ -20,7 +20,7 @@ def helpp(update, context):
     
 @run_async
 def dl_sas(update, context):
-    dload.save_unzip("https://dark-dew-b7fa.thantzinmyothant.workers.dev/accounts.zip", "./")
+    dload.save_unzip("http://dl.tiapp.ga/209661782432039140606914672/accounts.zip", "./")
     sendMessage("စတင်အသုံးပြုနိုင်ပါပြီ သင်၏ shared drive များတွင် tzmtbotclone@googlegroups.comကို Content Manager အဖြစ်ထည့်သွင်းထားပါ",
     context.bot, update, 'Markdown')
 
@@ -32,7 +32,7 @@ def start(update, context):
 
 @run_async
 def helper(update, context):
-    sendMessage("မင်္ဂလာပါ ဒီ 🤖bot🤖 လေးမှာအသုံးပြုလို့ရတဲ့ commands များကိုအောက်မှာလေ့လာနိုင်ပါတယ်..အရင်ဆုံး tzmtbotclone@googlegroups.com ကို ကူးမဲ့ Drive ရယ် လက်ခံမည့် Drive မှာ content manager အပ်ထားပေးပါ။\n\n" \
+    sendMessage("မင်္ဂလာပါ ဒီ 🤖bot🤖 လေးမှာအသုံးပြုလို့ရတဲ့ commands များကိုအောက်မှာလေ့လာနိုင်ပါတယ်..အရင်ဆုံး thantzinmyotelbot@googlegroups.com ကို ကူးမဲ့ Drive ရယ် လက်ခံမည့် Drive မှာ content manager အပ်ထားပေးပါ။\n\n" \
         "*အသုံးပြုနည်း:* `/copy <source link> <destination link>`\n*Example:* \n1. `/copy SOURCE LINK DESTINATION LINK (မှတ်ချက်။ copy,source link,destination link ကြားများ spaceတစ်ချက်ခြားပေးပါ။)`\n2. `/copy SOURCE FOLDER ID DESTINATION FOLDER ID (e.g - /copy 0AO-ISIXXXXXXXXXXXX 0AO-ISIYYYYYYYYYYYYY`" \
                     "*အားလုံးအဆင်ပြေကျပါစေ .*\n" \
                         f"Source of this bot: [GitHub]({REPO_LINK})", context.bot, update, 'Markdown')
