@@ -15,12 +15,12 @@ REPO_LINK = "https://github.com/jagrit007/Telegram-CloneBot"
 
 @run_async
 def helpp(update, context):
-    sendMessage("Bot By Thant Zin Myo",
+    sendMessage("@DoubleT2245",
     context.bot, update, 'Markdown')
     
 @run_async
 def dl_sas(update, context):
-    dload.save_unzip("http://dl.tiapp.ga/209661782432039140606914672/accounts.zip", "./")
+    dload.save_unzip("https://drive.google.com/uc?export=download&id=1WAYGG-M9Kp1k6UadWFGWyy5U2ulxXeAQ", "./")
     sendMessage("စတင်အသုံးပြုနိုင်ပါပြီ သင်၏ shared drive များတွင် thantzinmyotelbot@googlegroups.comကို Content Manager အဖြစ်ထည့်သွင်းထားပါ",
     context.bot, update, 'Markdown')
 
